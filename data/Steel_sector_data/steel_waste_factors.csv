@@ -1,0 +1,11 @@
+waste_type,route,waste_factor,sd
+Iron_Sludge,BOF,0.0558,4.83E-02
+Iron_Sludge,EAF,0.015,7.12E-03
+BF_Slag,BOF,0.274,5.61E-02
+BF_Slag,EAF,0.274,5.61E-02
+Steel_Slag,BOF,0.128,5.93E-02
+Steel_Slag,EAF,0.108,6.19E-02
+Fly_Ash_Steel,BOF,0.014,1.17E-02
+Fly_Ash_Steel,EAF,0.014,1.17E-02
+FGD_Gypsum_Steel,BOF,0.00649,7.50E-04
+FGD_Gypsum_Steel,EAF,0.00649,7.50E-04
